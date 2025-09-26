@@ -83,3 +83,5 @@
 ## 🔗 프로젝트 발표 자료
 
 - PPT: [Google Drive 링크](https://docs.google.com/presentation/d/1wG2FHeyEW350UyAKzOqkMH4JoF5_foQl/edit?usp=sharing&ouid=116787431230251141749&rtpof=true&sd=true)
+
+- 실행 영상: [Google Drive 링크](https://drive.google.com/file/d/1Tm1-susaQpE_4ye8b2ctEwP2Ifgj9rdU/view?usp=sharing)
