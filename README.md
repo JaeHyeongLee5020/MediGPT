@@ -80,3 +80,6 @@
 - **실시간 데이터 처리와 트랜잭션 보장 간 균형 잡기**
 
 ---
+## 🔗 프로젝트 발표 자료
+
+- PPT: [Google Drive 링크](https://docs.google.com/presentation/d/1wG2FHeyEW350UyAKzOqkMH4JoF5_foQl/edit?usp=sharing&ouid=116787431230251141749&rtpof=true&sd=true)
